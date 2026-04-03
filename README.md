@@ -1,16 +1,12 @@
-## Hi there 👋
+Hey, I'm Ryan 👋
+Systems Administrator & Network Engineer based in Rutherford, NJ.
+10+ years keeping infrastructure running across MSPs, healthcare, finance,
+construction, legal, and more industries than I can list on a resume.
 
-<!--
-**rbennett333/rbennett333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 10+ years of hands-on IT across enterprise and SMB environments
+☁️ Azure · AWS · Google Cloud
+🌐 Cisco · SonicWall · Ubiquiti · pfSense
+💻 Windows · Linux · macOS
+🏕️ When I'm not fixing networks, I'm finding somewhere dark enough to see the stars
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Portfolio & Contact](https://fantastic-gemini-2e8.notion.site/Ryan-Bennett-IT-Professional-337102ab0efa80568bfee08f3ee83251)
