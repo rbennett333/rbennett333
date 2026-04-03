@@ -1,4 +1,4 @@
-Hey, I'm Ryan 👋
+Hi I'm Ryan!
 Systems Administrator & Network Engineer based in Rutherford, NJ.
 10+ years keeping infrastructure running across MSPs, healthcare, finance,
 construction, legal, and more industries than I can list on a resume.
