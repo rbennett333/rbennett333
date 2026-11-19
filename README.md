@@ -1,16 +1,26 @@
-Hi I'm Ryan!
-Systems Administrator & Network Engineer based in Rutherford, NJ.
-10+ years keeping infrastructure running across MSPs, healthcare, finance,
-construction, legal, and more industries than I can list on a resume.
+## Hi, I'm Ryan! 👋
 
-🔧 10+ years of hands-on IT across enterprise and SMB environments
+**Systems Administrator & IT Support** based in Rutherford, NJ.
+12+ years keeping infrastructure running at managed service providers — from a 24/7 support desk for financial firms to Technical Account Manager for 100+ client accounts across healthcare, finance, construction, and legal.
 
-☁️ Azure · AWS · Google Cloud
+🔧 Windows Server · Active Directory · Group Policy · Microsoft 365 · Intune · Google Workspace
 
-🌐 Cisco · SonicWall · Ubiquiti · pfSense
+☁️ Azure · AWS
+
+🌐 Cisco · SonicWall · Sophos · pfSense · Ubiquiti UniFi · WireGuard
+
+🖥️ VMware vSphere · Hyper-V · Proxmox VE · Docker
+
+📜 PowerShell · Python · Bash
 
 💻 Windows · Linux · macOS
 
-🏕️ When I'm not fixing networks, I'm finding somewhere dark enough to see the stars
+### 🏠 In the homelab
 
-📄 [Portfolio & Contact](https://fantastic-gemini-2e8.notion.site/Ryan-Bennett-IT-Professional-337102ab0efa80568bfee08f3ee83251)
+A Proxmox host running 5 VMs and 13 containers, with zero open inbound ports (everything goes through Cloudflare Tunnel), daily backups to Proxmox Backup Server with offsite replication, and a self-hosted IT stack: TacticalRMM, Zammad, BookStack, Snipe-IT, Vaultwarden, Uptime Kuma, and n8n.
+
+🏕️ When I'm not fixing networks, I'm finding somewhere dark enough to see the stars.
+
+---
+
+🌐 **[ryanbennett.dev](https://ryanbennett.dev)** · 📄 **[Resume](https://ryanbennett.dev/Ryan_Bennett_Resume_2026.pdf)** · 💼 **[LinkedIn](https://www.linkedin.com/in/ryanbennettit)** · ✉️ **[ryan@ryanbennett.dev](mailto:ryan@ryanbennett.dev)**
